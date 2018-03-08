@@ -23,45 +23,540 @@
     top: 25;
     z-index: 10;
     width: 100%;
-    height: 65px;
+    height: 150px;
 }
 
   #uberschrift
   {
-      font-size: 30px;
-      font-weight: 100;
+      font-size: 80px;
+      font-weight: lighter;
       color: red;
       margin-top: 5px;
-      text-align: center;
+      margin-left: 45px;
+      text-align: left;
       font-weight: bold;
       background-color: rgb(22, 28, 38);
+
 }
 
 
 #menu {
   background-color: rgb(22, 28, 38);
-  font-size: 13px;
-  text-align: center;
+  font-size: 40px;
+  text-align: left;
+  padding-bottom: 15px;
   }
 
 
+  #spotify {
+    text-decoration: none;
+    color: #84bd00;
+    background-color: rgb(22, 28, 38);
+    text-align: center;
 
-#Spotify {
-  text-decoration: none;
-  color: #84bd00;
-  background-color: rgb(22, 28, 38);
-  text-align-last: center;
-  margin-left: 10px;
-  margin-right: 10px;
-  font-weight: normal;
+  }
 
-}
 
-#Spotify:hover {
-background-color: rgb(22, 28, 38);;
-color: #84bd00;
+  #spotify:hover {
+background-color: #20232a;
+color: #red;
 border-bottom: solid;
 border-width: thin;
 
+
+}
+#netflixicon{
+  float: left;
+  background-color:rgb(22, 28, 38);
+  padding-left: 30%;
+  padding-top: 30px;
+  padding-right: 20px;
+}
+
+#mainpage {
+  font-size: 50px;
+
+}
+#Tabelle {
+  border-top: solid;
+  border-right: solid;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-left: solid;
+  border-bottom: solid;
+  border-style: solid;
+  border-color: red;
+  border-width: thick;
+
+
+}
+
+
+
+table {
+  border-collapse: collapse;
+  border-style: none;
+}
+
+td{
+  padding: 1rem;
+  text-align: left;
+  color: white;
+  font-weight: lighter;
+  font-size: 40px;
+}
+
+th {
+  padding: 3rem;
+  text-align: center;
+  color: white;
+  font-weight: lighter;
+  font-size: 50px;
+}
+
+th { background: #28333f;
+                  border-bottom: solid;
+                  border-color: rgba(255, 255, 255, 0.5);
+                  border-width: thin;}
+
+
+td:nth-child { background: red; }
+#one td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#one td:nth-child(2) {
+    background-color: rgba(145, 185, 79, 1);
+    text-align: center;
+
+}
+
+#one td:nth-child(3) {
+  background-color: rgba(145, 185, 79, 1);
+  text-align: center;
+}
+
+#one td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+#two td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#two td:nth-child(2) {
+    background-color: rgba(145, 185, 79, 1);
+    text-align: center;
+
+}
+
+#two td:nth-child(3) {
+  background-color: rgba(145, 185, 79, 1);
+  text-align: center;
+}
+
+#two td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+#three td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#three td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#three td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#three td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+#four td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#four td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#four td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#four td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#five td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#five td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#five td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#five td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#six td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#six td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#six
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#six td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+#seven td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#seven td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#seven
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#seven td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#eight td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#eight td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#eight
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#eight td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#nine td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#nine td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#nine
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#nine td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#ten td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#ten td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#ten
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#ten td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#eleven td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#eleven td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#eleven
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#eleven td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#twelve td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#twelve td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#twelve
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#twelve td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#thirteen td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#thirteen td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#thirteen
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#thirteen td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#fourteen td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#fourteen td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#fourteen
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#fourteen td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#fifteen td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#fifteen td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#fifteen
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#fifteen td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#sixteen td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#sixteen td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#sixteen
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#sixteen td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+#seventeen td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#seventeen td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#seventeen 
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#seventeen td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
 
 }
