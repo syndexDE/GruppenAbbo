@@ -28,6 +28,7 @@
 
   #uberschrift
   {
+      padding-top: 8px;
       font-size: 80px;
       font-weight: lighter;
       color: red;
@@ -80,8 +81,8 @@ border-width: thin;
 #Tabelle {
   border-top: solid;
   border-right: solid;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 2%;
+  margin-right: 2%;
   border-left: solid;
   border-bottom: solid;
   border-style: solid;
@@ -103,7 +104,7 @@ td{
   text-align: left;
   color: white;
   font-weight: lighter;
-  font-size: 40px;
+  font-size: 50px;
 }
 
 th {
@@ -111,7 +112,7 @@ th {
   text-align: center;
   color: white;
   font-weight: lighter;
-  font-size: 50px;
+  font-size: 60px;
 }
 
 th { background: #28333f;
