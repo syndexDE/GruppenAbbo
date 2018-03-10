@@ -94,7 +94,6 @@ border-width: thin;
   height: 90px;
 
   bottom: 0px;
-  position: relative;
 
 }
 
@@ -112,8 +111,18 @@ border-width: thin;
 
 
   #mainpage {
-    margin-right: 5%;
+    margin-right: 2%;
+    margin-left: 2%;
 
+  }
+
+
+  #text {
+    margin-top: 100px;
+    color: white;
+    font-weight: lighter;
+    margin-left: 70px;
+    font-size: 14px;
   }
 
 
@@ -122,7 +131,10 @@ border-width: thin;
 
 table {
   border-collapse: collapse;
-  border-style: none;
+  border-style: hidden;
+  border: 0;
+
+
 }
 
 td{
@@ -130,19 +142,261 @@ td{
   text-align: left;
   color: white;
   font-weight: lighter;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 th {
-  padding: 3rem;
+  padding: 24px;
   text-align: center;
   color: white;
   font-weight: lighter;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 th { background: rgb(22, 28, 38);
                 }
+
+
+
+
+
+
+
+
+                #oone td:nth-child(1) {
+                    background-color: rgb(22, 28, 38);
+                    text-align: left;
+                }
+
+                #oone td:nth-child(2) {
+                    background-color: rgba(145, 185, 79, 1);
+                    text-align: center;
+
+                }
+
+                #oone td:nth-child(3) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+                }
+
+                #oone td:nth-child(4) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+
+                }
+
+                #oone td:nth-child(5) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+                }
+
+                #oone td:nth-child(6) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+
+                }
+
+
+
+
+
+
+
+
+
+
+
+                #otwo td:nth-child(1) {
+                    background-color: rgb(22, 28, 38);
+                    text-align: left;
+                }
+
+                #otwo td:nth-child(2) {
+                    background-color: rgba(145, 185, 79, 1);
+                    text-align: center;
+
+                }
+
+                #otwo td:nth-child(3) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+                }
+
+                #otwo td:nth-child(4) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+
+                }
+
+                #otwo td:nth-child(5) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+                }
+
+                #otwo td:nth-child(6) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+
+                }
+
+
+
+
+
+
+
+
+
+
+
+
+                #othree td:nth-child(1) {
+                    background-color: rgb(22, 28, 38);
+                    text-align: left;
+                }
+
+                #othree td:nth-child(2) {
+                    background-color: rgba(145, 185, 79, 1);
+                    text-align: center;
+
+                }
+
+                #othree td:nth-child(3) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+                }
+
+                #othree td:nth-child(4) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+
+                }
+
+                #othree td:nth-child(5) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+                }
+
+                #othree td:nth-child(6) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+
+                }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                #ofour td:nth-child(1) {
+                    background-color: rgb(22, 28, 38);
+                    text-align: left;
+                }
+
+                #ofour td:nth-child(2) {
+                    background-color: rgba(185, 79, 79, 1);
+                    text-align: center;
+
+                }
+
+                #ofour td:nth-child(3) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+                }
+
+                #ofour td:nth-child(4) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+
+                }
+
+                #ofour td:nth-child(5) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+                }
+
+                #ofour td:nth-child(6) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+
+                }
+
+
+
+
+
+
+
+
+
+
+
+
+                #ofive td:nth-child(1) {
+                    background-color: rgb(22, 28, 38);
+                    text-align: left;
+                }
+
+                #ofive td:nth-child(2) {
+                    background-color: rgba(185, 79, 79, 1);
+                    text-align: center;
+
+                }
+
+                #ofive td:nth-child(3) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+                }
+
+                #ofive td:nth-child(4) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+
+                }
+
+                #ofive td:nth-child(5) {
+                  background-color: rgba(185, 79, 79, 1);
+                  text-align: center;
+                }
+
+                #ofive td:nth-child(6) {
+                  background-color: rgba(145, 185, 79, 1);
+                  text-align: center;
+
+                }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 td:nth-child { background: red; }
@@ -366,6 +620,860 @@ td:nth-child { background: red; }
 }
 
 #six td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+#seven td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#seven td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#seven td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#seven td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#seven td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#seven td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+#eight td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#eight td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#eight td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#eight td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#eight td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#eight td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#nine td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#nine td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#nine td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#nine td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#nine td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#nine td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+#ten td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#ten td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#ten td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#ten td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#ten td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#ten td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+#eleven td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#eleven td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#eleven td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#eleven td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#eleven td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#eleven td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+#twelve td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#twelve td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#twelve td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#twelve td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#twelve td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#twelve td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+#space td {
+
+}
+
+
+#space td:nth-child(1) {
+    background-color: rgba(31, 41, 55, 1);
+    text-align: left;
+}
+
+#space td:nth-child(2) {
+    background-color: rgba(31, 41, 55, 1);
+    text-align: center;
+
+}
+
+#space td:nth-child(3) {
+  background-color: rgba(31, 41, 55, 1);
+  text-align: center;
+}
+
+#space td:nth-child(4) {
+  background-color: rgba(31, 41, 55, 1);
+  text-align: center;
+
+}
+
+
+#space td:nth-child(5) {
+  background-color: rgba(31, 41, 55, 1);
+  text-align: center;
+}
+
+#space td:nth-child(6) {
+  background-color: rgba(31, 41, 55, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#nextyear td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#nextyear td:nth-child(2) {
+    background-color: rgb(22, 28, 38);
+    text-align: center;
+
+}
+
+#nextyear td:nth-child(3) {
+  background-color: rgb(22, 28, 38);
+  text-align: center;
+}
+
+#nextyear td:nth-child(4) {
+  background-color: rgb(22, 28, 38);
+  text-align: center;
+
+}
+
+
+#nextyear td:nth-child(5) {
+  background-color: rgb(22, 28, 38);
+  text-align: center;
+}
+
+#nextyear td:nth-child(6) {
+  background-color: rgb(22, 28, 38);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+#january td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#january td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#january td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#january td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#january td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#january td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+#february td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#february td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#february td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#february td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#february td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#february td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+#march td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#march td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#march td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#march td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#march td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#march td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+#april td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#april td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#april td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#april td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#april td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#april td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+#may td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#may td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#may td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#may td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#may td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#may td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#june td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#june td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#june td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#june td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#june td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#june td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#july td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#july td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#july td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#july td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#july td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#july td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#august td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#august td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#august td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#august td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#august td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#august td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#september td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#september td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#september td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#september td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#september td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#september td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#october td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#october td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#october td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#october td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#october td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#october td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#november td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#november td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#november td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#november td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#november td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#november td:nth-child(6) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#december td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#december td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#december td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#december td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+#december td:nth-child(5) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#december td:nth-child(6) {
   background-color: rgba(185, 79, 79, 1);
   text-align: center;
 

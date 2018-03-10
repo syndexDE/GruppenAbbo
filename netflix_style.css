@@ -58,7 +58,7 @@
 
 
   #spotify:hover {
-background-color: #20232a;
+background-color: rgb(22, 28, 38);
 color: #red;
 border-bottom: solid;
 border-width: thin;
@@ -94,6 +94,9 @@ border-width: thin;
   background-color: rgb(22, 28, 38);
   height: 90px;
 
+  bottom: 0px;
+  position: relative;
+
 }
 
 #version {
@@ -109,19 +112,6 @@ border-width: thin;
 }
 
 
-#Tabelle {
-  border-top: solid;
-  border-right: solid;
-  margin-left: 5%;
-  margin-right: 5%;
-  border-left: solid;
-  border-bottom: solid;
-  border-style: solid;
-  border-color: red;
-  border-width: thick;
-
-
-}
 
  #text {
    color: white;
@@ -155,9 +145,7 @@ th {
 }
 
 th { background: rgb(22, 28, 38);
-                  border-bottom: solid;
-                  border-color: rgba(255, 255, 255, 0.5);
-                  border-width: thin;}
+                }
 
 
 td:nth-child { background: red; }
