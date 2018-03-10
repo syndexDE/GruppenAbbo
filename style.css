@@ -111,7 +111,7 @@ border-width: thin;
     height: 90px;
     width: 100%;
     bottom: 0px;
-    position:absolute;
+    position: fixed;
   }
 
   #version {
