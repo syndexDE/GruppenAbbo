@@ -4,7 +4,7 @@
 
   margin: 0 auto;
   padding: 0;
-  background-color: rgba(62, 72, 89, 1);
+  background-color: rgba(31, 41, 55, 1);
 
 
 }
@@ -28,7 +28,6 @@
 
   #uberschrift
   {
-      padding-top: 8px;
       font-size: 80px;
       font-weight: lighter;
       color: red;
@@ -78,11 +77,43 @@ border-width: thin;
   font-size: 50px;
 
 }
+
+
+#copyright {
+  background-color: rgb(22, 28, 38);
+  color: white;
+  font-weight: 100;
+  font-size: 25px;
+  float: left;
+  margin-top: 30px;
+  margin-left: 20px;
+
+
+}
+#footer {
+  background-color: rgb(22, 28, 38);
+  height: 90px;
+
+}
+
+#version {
+  background-color: rgb(22, 28, 38);
+  color: white;
+  font-weight: 100;
+  font-size: 25px;
+  float: right;
+  margin-top: 30px;
+  margin-right: 20px;
+
+
+}
+
+
 #Tabelle {
   border-top: solid;
   border-right: solid;
-  margin-left: 2%;
-  margin-right: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
   border-left: solid;
   border-bottom: solid;
   border-style: solid;
@@ -92,6 +123,14 @@ border-width: thin;
 
 }
 
+ #text {
+   color: white;
+   font-weight: 100;
+   margin-left: 9%;
+   margin-top: 13%;
+   margin-bottom:7%;
+   font-size: 35px;
+  }
 
 
 table {
@@ -104,7 +143,7 @@ td{
   text-align: left;
   color: white;
   font-weight: lighter;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 th {
@@ -112,10 +151,10 @@ th {
   text-align: center;
   color: white;
   font-weight: lighter;
-  font-size: 60px;
+  font-size: 50px;
 }
 
-th { background: #28333f;
+th { background: rgb(22, 28, 38);
                   border-bottom: solid;
                   border-color: rgba(255, 255, 255, 0.5);
                   border-width: thin;}
@@ -432,31 +471,19 @@ td:nth-child { background: red; }
 }
 
 
-
-
-#thirteen td:nth-child(1) {
-    background-color: rgb(22, 28, 38);
-    text-align: left;
+#thirteen td {
+font-size: 60px;
+padding: 2rem;
+background-color: rgb(22, 28, 38);
+text-align: center;
 }
 
-#thirteen td:nth-child(2) {
-    background-color: rgba(185, 79, 79, 1);
-    text-align: center;
-
+#tweteen  td {
+font-size: 60px;
+padding: 2rem;
+background-color: rgba(31, 41, 55, 1);
+text-align: center;
 }
-
-#thirteen
- td:nth-child(3) {
-  background-color: rgba(185, 79, 79, 1);
-  text-align: center;
-}
-
-#thirteen td:nth-child(4) {
-  background-color: rgba(185, 79, 79, 1);
-  text-align: center;
-
-}
-
 
 
 
@@ -550,13 +577,247 @@ td:nth-child { background: red; }
 
 }
 
-#seventeen 
+#seventeen
  td:nth-child(3) {
   background-color: rgba(185, 79, 79, 1);
   text-align: center;
 }
 
 #seventeen td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#eightteen td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#eightteen td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#eightteen
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#eightteen td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#nineteen td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#nineteen td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#nineteen
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#nineteen td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#twenty td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#twenty td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#twenty
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#twenty td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#twentyone td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#twentyone td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#twentyone
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#twentyone td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#twentytwo td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#twentytwo td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#twentytwo
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#twentytwo td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#twentythree td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#twentythree td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#twentythree
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#twentythree td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#twentyfour td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#twentyfour td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#twentyfour
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#twentyfour td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#twentyfive td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#twentyfive td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#twentyfive
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#twentyfive td:nth-child(4) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+
+}
+
+
+
+
+#twentysix td:nth-child(1) {
+    background-color: rgb(22, 28, 38);
+    text-align: left;
+}
+
+#twentysix td:nth-child(2) {
+    background-color: rgba(185, 79, 79, 1);
+    text-align: center;
+
+}
+
+#twentysix
+ td:nth-child(3) {
+  background-color: rgba(185, 79, 79, 1);
+  text-align: center;
+}
+
+#twentysix td:nth-child(4) {
   background-color: rgba(185, 79, 79, 1);
   text-align: center;
 
