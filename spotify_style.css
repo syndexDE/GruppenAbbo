@@ -381,7 +381,7 @@ th { background: rgb(22, 28, 38);
                 }
 
                 #ofive td:nth-child(5) {
-                  background-color: rgba(185, 79, 79, 1);
+                  background-color: rgba(145, 185, 79, 1);;
                   text-align: center;
                 }
 
@@ -432,12 +432,12 @@ td:nth-child { background: red; }
 }
 
 #one td:nth-child(5) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 
 #one td:nth-child(6) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 
 }
@@ -470,12 +470,12 @@ td:nth-child { background: red; }
 }
 
 #two td:nth-child(5) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 
 #two td:nth-child(6) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 
 }
@@ -502,20 +502,20 @@ td:nth-child { background: red; }
 }
 
 #three td:nth-child(4) {
-  background-color: #b94f4f;
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 
 }
 
 
 #three td:nth-child(5) {
-    background-color: #b94f4f;
+    background-color: rgba(145, 185, 79, 1);
     text-align: center;
 
 }
 
 #three td:nth-child(6) {
-  background-color: #b94f4f;
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 
@@ -550,12 +550,12 @@ td:nth-child { background: red; }
 
 
 #four td:nth-child(5) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 
 #four td:nth-child(6) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 
 }
@@ -587,12 +587,12 @@ td:nth-child { background: red; }
 
 
 #five td:nth-child(5) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 
 #five td:nth-child(6) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 
 }
@@ -624,7 +624,7 @@ td:nth-child { background: red; }
 
 
 #six td:nth-child(5) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 
@@ -664,7 +664,7 @@ td:nth-child { background: red; }
 
 
 #seven td:nth-child(5) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 
