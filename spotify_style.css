@@ -538,7 +538,7 @@ td:nth-child { background: red; }
 }
 
 #four td:nth-child(3) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 
