@@ -459,7 +459,7 @@ td:nth-child { background: red; }
 }
 
 #two td:nth-child(3) {
-  background-color: rgba(22, 105, 113, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 
