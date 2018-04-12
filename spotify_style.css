@@ -55,7 +55,13 @@
     text-align: center;
 
   }
-
+#news {
+  color: rgb(196, 65, 65);
+  font-weight: bold;
+  font-size: 14px;
+  margin-top: 40px;
+  margin-left: 5%;
+}
 
   #netflix:hover {
 background-color: #20232a;
@@ -320,7 +326,7 @@ th { background: rgb(22, 28, 38);
                 }
 
                 #ofour td:nth-child(2) {
-                    background-color: rgba(185, 79, 79, 1);
+                    background-color: rgba(145, 185, 79, 1);
                     text-align: center;
 
                 }
@@ -364,7 +370,7 @@ th { background: rgb(22, 28, 38);
                 }
 
                 #ofive td:nth-child(2) {
-                    background-color: rgba(185, 79, 79, 1);
+                    background-color: rgba(145, 185, 79, 1);
                     text-align: center;
 
                 }
@@ -415,7 +421,7 @@ td:nth-child { background: red; }
 }
 
 #one td:nth-child(2) {
-    background-color: rgba(185, 79, 79, 1);
+    background-color: rgba(145, 185, 79, 1);
     text-align: center;
 
 }
@@ -453,7 +459,7 @@ td:nth-child { background: red; }
 }
 
 #two td:nth-child(2) {
-    background-color: rgba(185, 79, 79, 1);
+    background-color: rgba(145, 185, 79, 1);
     text-align: center;
 
 }
@@ -491,7 +497,7 @@ td:nth-child { background: red; }
 }
 
 #three td:nth-child(2) {
-    background-color: #b94f4f;
+    background-color: rgba(145, 185, 79, 1);
     text-align: center;
 
 }
@@ -532,7 +538,7 @@ td:nth-child { background: red; }
 }
 
 #four td:nth-child(2) {
-    background-color: rgba(185, 79, 79, 1);
+    background-color: rgb(22, 28, 38);;
     text-align: center;
 
 }
