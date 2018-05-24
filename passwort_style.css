@@ -47,78 +47,43 @@
 
 
 
-/*
 
-
-#Spotify {
-  text-decoration: none;
-  color: #84bd00;
-  background-color: rgb(22, 28, 38);
-  text-align-last: center;
-  margin-left: 40px;
-  margin-right: 20px;
-  font-weight: normal;
-
+.form {
+    border: 3px solid #f1f1f1;
+    font-size: 50px;
 }
 
+/* Full-width inputs */
 
-#netflix {
-  text-decoration: none;
-  color: red;
-  background-color: rgb(22, 28, 38);
-  text-align-last: center;
-  margin-left: 40px;
-  margin-right: 20px;
-  font-weight: normal;
 
+/* Set a style for all buttons */
+input {
+    background-color: #4CAF50;
+    color: white;
+    margin: 15%;
+    border: none;
+    cursor: pointer;
+    width: 70%;
+    height: 80px;
+    font-size: 60px;
+    text-align: center;
 }
 
-
-
-#Spotify:hover {
-background-color: rgb(22, 28, 38);
-color: #84bd00;
-border-bottom: solid;
-border-width: thin;
-
-
+/* Add a hover effect for buttons */
+button:hover {
+    opacity: 0.8;
 }
 
-#netflix:hover {
-background-color: rgb(22, 28, 38);
-color: #red;
-border-bottom: solid;
-border-width: thin;
-}
-*/
-
-
-
-
-#netflixlogo {
-  border-radius: 20px;
-  width: 90%;
-  height: auto;
-  margin-left: 5%;
-
+/* Extra style for the cancel button (red) */
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
 }
 
 
 
-  #spotifylogo {
-    border-radius: 20px;
-    width: 90%;
-    height: auto;
-    margin-left: 5%;
 
-  }
-
-#finanzenlogo {
-  border-radius: 20px;
-  width: 90%;
-  height: 450px;
-  margin-left: 5%;
-}
 
 
 
@@ -127,7 +92,7 @@ border-width: thin;
     height: 90px;
     width: 100%;
     bottom: 0px;
-    position: relative;
+    position: absolute;
   }
 
   #version {
@@ -152,16 +117,3 @@ border-width: thin;
 
 
   }
-
-
-
-
-
-
-
-
-.box {
-  padding-top: 100%;
-
-
-}
