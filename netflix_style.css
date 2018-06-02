@@ -216,7 +216,7 @@ td:nth-child { background: red; }
 }
 
 #three td:nth-child(3) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 
@@ -243,7 +243,7 @@ td:nth-child { background: red; }
 }
 
 #four td:nth-child(3) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 
@@ -268,7 +268,7 @@ td:nth-child { background: red; }
 }
 
 #five td:nth-child(3) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 
@@ -294,7 +294,7 @@ td:nth-child { background: red; }
 
 #six
  td:nth-child(3) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 
@@ -319,7 +319,7 @@ td:nth-child { background: red; }
 
 #seven
  td:nth-child(3) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 

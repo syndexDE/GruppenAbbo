@@ -635,7 +635,7 @@ td:nth-child { background: red; }
 }
 
 #six td:nth-child(6) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 
 }
