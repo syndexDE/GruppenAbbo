@@ -1,0 +1,50 @@
+* {
+
+  font-family: Roboto;
+  margin: 0 auto;
+  padding: 0;
+  background-color: #072442;
+
+}
+
+#navigation {
+	text-align: center;
+	padding-top: 7vw;
+	color: white;
+	font-size: 7vw;
+	font-weight: 200;
+	padding-bottom: 3vw;
+}
+
+#countdown {
+	color: rgb(204, 61, 61);
+	font-weight: 100;
+	font-size: 3vw;
+	background-color: #0a2f54;
+
+}
+.wrapper {
+	padding-top: 7vw;
+	background-color: #0a2f54;
+		padding: 1vw;
+}
+
+#days {
+	background-color: #0a2f54;
+}
+
+
+#hours {
+	background-color: #0a2f54;
+}
+
+
+#minutes {
+	background-color: #0a2f54;
+}
+
+
+#seconds {
+background-color: #0a2f54;
+
+}
