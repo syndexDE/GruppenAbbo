@@ -9,24 +9,24 @@
 
 #navigation {
 	text-align: center;
-	padding-top: 7vw;
+	padding-top: 14vh;
 	color: white;
-	font-size: 7vw;
+	font-size: 14vh;
 	font-weight: 200;
-	padding-bottom: 3vw;
+	padding-bottom: 6vh;
 }
 
 #countdown {
 	color: rgb(204, 61, 61);
 	font-weight: 100;
-	font-size: 3vw;
+	font-size: 6vh;
 	background-color: #0a2f54;
 
 }
 .wrapper {
-	padding-top: 7vw;
+	padding-top: 14vh;
 	background-color: #0a2f54;
-		padding: 1vw;
+		padding: 3vh;
 }
 
 #days {
