@@ -1,0 +1,69 @@
+* {
+
+  font-family: Helvetica;
+  font-weight: 100;
+  margin: 0 auto;
+  padding: 0;
+  background-color: rgba(31, 41, 55, 1);
+
+}
+
+
+
+
+#Lucastinkt {
+color: white;
+font-size: 75px;
+text-align: center;
+padding-top: 5%;
+
+
+}
+
+
+#pic {
+
+
+	margin-left: 40%;
+	width: 20%;
+
+}
+
+#countdown {
+	color: rgb(120, 160, 189);
+	font-weight: 100;
+	font-size: 25px;
+
+}
+
+
+#alltosay {
+  margin-top: 3%;
+  color: rgb(231, 100, 66);
+  font-size: 15px;
+  text-align: center;
+  font-weight: 100;
+}
+
+#footer {
+padding-bottom: 10%;
+
+
+}
+
+#cvgpix {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    border-radius: 60px;
+    width: 700px;
+    height: auto;
+    padding: 3px;
+    background-color: rgb(71, 85, 98);
+
+
+
+
+}
