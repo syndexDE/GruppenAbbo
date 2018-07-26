@@ -1,0 +1,76 @@
+* {
+
+  font-family: Helvetica;
+  font-weight: 100;
+  margin: 0 auto;
+  padding: 0;
+  background-color: rgba(31, 41, 55, 1);
+
+}
+
+#uberschrift {
+color: white;
+font-size: 4rem;
+padding-top: 20px;
+padding-bottom: 30px;
+background-color:  rgb(22, 28, 38);
+
+}
+
+
+.collapsible {
+    background-color: #63bd74;
+    float: left;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 35%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 55px;
+    margin-right: 20px;
+}
+
+
+
+.content {
+    padding-top: 20px;
+    float: center;
+    color: white;
+    font-size: 40px;
+}
+
+
+#copyright {
+  background-color: rgb(22, 28, 38);
+  color: white;
+  font-weight: 100;
+  font-size: 25px;
+  float: left;
+  margin-top: 30px;
+  margin-left: 20px;
+
+
+}
+
+
+#footer {
+  background-color: rgb(22, 28, 38);
+  height: 90px;
+  width: 100%;
+  bottom: 0px;
+  position: relative;
+}
+
+#version {
+  background-color: rgb(22, 28, 38);
+  color: white;
+  font-weight: 100;
+  font-size: 25px;
+  float: right;
+  margin-top: 30px;
+  margin-right: 20px;
+
+
+}

@@ -113,12 +113,21 @@ border-width: thin;
 
   }
 
-#finanzenlogo {
-  border-radius: 20px;
-  width: 90%;
-  height: 450px;
-  margin-left: 5%;
-}
+  #finanzenlogo {
+    border-radius: 20px;
+    width: 90%;
+    height: 450px;
+    margin-left: 5%;
+
+  }
+
+  #kalenderlogo {
+    border-radius: 20px;
+    width: 90%;
+    height: 450px;
+    margin-left: 5%;
+
+  }
 
 
 
@@ -155,11 +164,7 @@ border-width: thin;
 
 
 
-#Payments {
- color: white;
-  padding-left: 5%;
-  font-size: 40px;
-}
+
 
 
 
