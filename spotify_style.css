@@ -675,7 +675,7 @@ td:nth-child { background: red; }
 }
 
 #seven td:nth-child(6) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 
 }
@@ -700,12 +700,12 @@ td:nth-child { background: red; }
 }
 
 #eight td:nth-child(3) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 
 #eight td:nth-child(4) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 
 }
@@ -717,7 +717,7 @@ td:nth-child { background: red; }
 }
 
 #eight td:nth-child(6) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 
 }
@@ -745,7 +745,7 @@ td:nth-child { background: red; }
 }
 
 #nine td:nth-child(3) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 }
 
@@ -762,7 +762,7 @@ td:nth-child { background: red; }
 }
 
 #nine td:nth-child(6) {
-  background-color: rgba(185, 79, 79, 1);
+  background-color: rgba(145, 185, 79, 1);
   text-align: center;
 
 }
